@@ -23,6 +23,7 @@
 ![joiceesouza GitHub stats](https://github-readme-stats.vercel.app/api?username=joiceesouza&count_private=true&theme=prussian&show_icons=true)
 
 [![joiceesouza Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiceesouza&theme=prussian&count_private=true)](https://github.com/joiceesouza/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joiceesouza&repo=github-readme-stats)](https://github.com/joiceesouza/github-readme-stats)
 
 
 
