@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/joicesouza-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ![joiceesouza GitHub stats](https://github-readme-stats.vercel.app/api?username=joiceesouza&count_private=true)
 
-[![joiceesouza Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiceesouza&theme=prussian)](https://github.com/joiceesouza/github-readme-stats)
+[![joiceesouza Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiceesouza&theme=prussian&count_private=true)](https://github.com/joiceesouza/github-readme-stats)
 [![joiceesouza GitHub stats](https://github-readme-stats.vercel.app/api?username=joiceesouza&theme=prussian&show_icons=true)](https://github.com/joiceesouza/github-readme-stats)
 
 
