@@ -12,7 +12,7 @@
 
 :books: Atualmente estou aprendendo tudo.
 
-:outbox_tray: Objetivos 2021: criar um novo projeto e encontrar um novo emprego.
+:outbox_tray: Objetivos 2021: criar novos projetos e encontrar um novo emprego.
 
  
 
