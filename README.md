@@ -21,7 +21,7 @@
 
   <a href="https://www.linkedin.com/in/joicesouza-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joiceesouza & repo=github-readme-stats)](https://github.com/joiceesouza/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiceesouza)](https://github.com/joiceesouza/github-readme-stats)
 
 
