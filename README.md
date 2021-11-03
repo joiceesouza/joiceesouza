@@ -1,45 +1,37 @@
-# Welcome!
+# Bem-vindos!
 
  
 
-## I'm Joice!
+## Sou a Joice!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: Desenvolvedora Front-End Jr!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Brasileira.
 
-:books: I’m currently learning everything.
+:books: Atualmente estou aprendendo tudo.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: Objetivos 2021: criar um novo projeto e encontrar um novo emprego.
 
  
 
-## About me
+## Sobre
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+  <a href="https://www.linkedin.com/in/joicesouza-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
-
-
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/joicesouza-/)]( https://www.linkedin.com/in/joicesouza-/)
 
 
 
+- Obrigado pela visita.
+
+- Aproveite!! o/
 
 
-### Bem vindos ao meu perfil 
 
 
-
-- 💻 Estudando desenvolvimento Front End ...
-- 💛 Laboratória no Brasil ...
-- 🐶 Amo animais ...
-- 👩‍💻 Tecnologia ...
 
 
 
