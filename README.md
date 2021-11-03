@@ -24,7 +24,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joiceesouza&theme=prussian&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiceesouza&theme=prussian)](https://github.com/joiceesouza/github-readme-stats)
-
+[![joiceesouza GitHub stats](https://github-readme-stats.vercel.app/api?username=joiceesouza)](https://github.com/joiceesouza/github-readme-stats)
 
 
 - Obrigado pela visita.
