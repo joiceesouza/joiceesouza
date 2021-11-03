@@ -24,6 +24,8 @@
 
 [![joiceesouza Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiceesouza&theme=prussian)](https://github.com/joiceesouza/github-readme-stats)
 [![joiceesouza Readme Card](https://github-readme-stats.vercel.app/api/pin/&username=joiceesouza&repo=github-readme-stats)](https://github.com/joiceesouza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joiceesouza&layout=compact)](https://github.com/joiceesouza/github-readme-stats)
+
 
 
 
