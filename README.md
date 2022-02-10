@@ -6,7 +6,7 @@
 
  
 
-:computer: Desenvolvedora Front-End Jr!
+:computer: Analista de Sistemas Jr no Banco Safra
 
 :house_with_garden: Brasileira.
 
