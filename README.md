@@ -35,7 +35,4 @@ O programa inclui a realização de mais de 15 projetos práticos, desenvolvidos
  ![pagweb](https://ik.imagekit.io/123sbc/Image%20(1)_EGBrjs7ye.png?updatedAt=1755535196036)
  ![pagweb](https://ik.imagekit.io/123sbc/Image%20(4)_UtetGfbzI.png?updatedAt=1755535652727)
 
- - Obrigado pela visita.
-
-
-
+ - Obrigada pela visita.
